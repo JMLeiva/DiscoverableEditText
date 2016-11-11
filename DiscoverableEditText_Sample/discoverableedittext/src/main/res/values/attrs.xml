@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DiscoverableEditText">
+        <attr name="discover_edit_text" format="reference"/>
+        <attr name="discover_button" format="reference"/>
+    </declare-styleable>
+</resources>
